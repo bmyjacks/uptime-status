@@ -9,11 +9,7 @@ window.Config = {
   Navi: [
     {
       text: 'Status',
-      url: 'https://status.bmyjacks.cn/'
-    },
-    {
-      text: 'Blog',
-      url: 'https://www.bmyjacks.cn/'
+      url: 'https://status.bmyjacks.io/'
     }
   ]
 };
